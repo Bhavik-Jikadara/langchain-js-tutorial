@@ -43,8 +43,8 @@ Ensure you have the following installed on your machine:
 1. **Clone the Repository**:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>  
+    git clone https://github.com/Bhavik-Jikadara/langchain-js-tutorial.git
+    cd langchain-js-tutorial
     ```
 
 2. **Install Dependencies**
